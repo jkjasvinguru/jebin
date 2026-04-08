@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate Details</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #000;
+            color: #fff;
+        }
+        .container {
+            padding: 20px;
+        }
+        .field {
+            font-size: 22px;
+            margin-bottom: 20px;
+        }
+        .label {
+            font-weight: normal;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="field">Certificate ID : FSP/2026/4/10258036</div>
+    <div class="field">Candidate : Jebin Jino</div>
+    <div class="field">Assessment Name : Python Fundamental And Programming</div>
+    <div class="field">Candidate Email: jebinjinopec@gmail.com</div>
+    <div class="field">Date of issue : 7/4/2026</div>
+    <div class="field">Percentage Marks Overall: 74.00</div>
+</div>
+
+</body>
+</html>
